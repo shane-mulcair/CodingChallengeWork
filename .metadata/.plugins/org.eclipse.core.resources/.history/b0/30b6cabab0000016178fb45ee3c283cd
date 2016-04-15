@@ -1,0 +1,18 @@
+package com.shanemulcair.tests;
+
+import org.junit.Before;
+
+import com.shanemulcair.advent.Day9Part1;
+
+public class AdventTester {
+	Day9Part1 d9=null;
+	@Before
+	public void setUp(){
+		Day9Part1 d9=new Day9Part1();
+	}
+	
+	@Test
+	public void test1(){
+		assertEquals(0,d9.)
+	}
+}
