@@ -1,10 +1,12 @@
-package com.shanemulcair.main;
+package com.shanemulcair.tests;
 
 import static org.junit.Assert.*;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import com.shanemulcair.main.ReducedString;
 
 public class ReducedStringTest {
 	ReducedString rs;
